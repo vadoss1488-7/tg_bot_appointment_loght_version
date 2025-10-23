@@ -1,0 +1,26 @@
+2025-10-23 13:10:26 | INFO | Bot initialized
+2025-10-23 13:10:26 | INFO | Bot started
+2025-10-23 13:10:37 | INFO | Start | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:41 | INFO | Sent price | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:42 | INFO | Request examples | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:42 | DEBUG | Sent example photo_2025-10-23_02-45-26.jpg | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:42 | DEBUG | Sent example photo_2025-10-23_02-45-37.jpg | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:43 | DEBUG | Sent example photo_2025-10-23_02-45-42.jpg | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:43 | DEBUG | Sent example photo_2025-10-23_02-45-46.jpg | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:46 | INFO | Signup started | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:47 | INFO | Service selected: Маникюр + гель-лак | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:10:53 | INFO | Name entered: Вадимка | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:11:26 | INFO | Phone entered: +380000000000 | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:11:43 | INFO | Date selected: 23.10.2025; slots=12 | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:11:47 | INFO | Record created Маникюр + гель-лак 23.10.2025 17:00 | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:11:47 | INFO | Admin notified 5955591242 | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:11:59 | INFO | Admin panel years: ['2025'] | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:12:01 | INFO | Admin months for 2025: ['10'] | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:12:02 | INFO | Admin days for 10.2025: ['23'] | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:12:04 | INFO | Admin view 23.10.2025 count=1 | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:14:23 | INFO | Start | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:14:26 | INFO | Signup started | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:14:31 | WARNING | Invalid service | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:14:31 | INFO | Signup started | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:14:42 | INFO | Service selected: Френч (как доп. к услуге) | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
+2025-10-23 13:18:53 | WARNING | Invalid name | ctx={"user_id": 5955591242, "username": "Vorker3", "name": "Вадим Акелов"}
